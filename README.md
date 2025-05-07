@@ -34,7 +34,7 @@ pip install PyQt5 numpy scipy pyserial matplotlib
 ### 4. Содержимое архива
 `ECG_Visualizer.py` — основной исполняемый файл программы
 
-`libary.txt` — список зависимостей
+`requirements.txt` — список зависимостей
 
 `examples/` (опционально) — примеры данных ЭКГ в формате CSV
 
